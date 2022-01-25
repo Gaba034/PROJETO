@@ -1,4 +1,5 @@
 # pro
+Esse é o projeto em si e ele deve ficar dentro da pasta do outro link substituindo o pro2 e pro1
 
 ## Project setup
 ```
